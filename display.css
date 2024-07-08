@@ -1,0 +1,13 @@
+
+
+.block {
+    display: block;
+}
+.disappear {
+    /* disparition de l'élément dans le flux de page */
+    /* display none */
+}
+
+.inline{
+    display: inline;
+}   
